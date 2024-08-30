@@ -10,7 +10,7 @@ console.log(isActive,typeof(isActive));
 //Task 2: Compound Data Types
 let products = ["brownies","cookies","cakes"];
 const productDetails = {
-name: Kosi,
+name: "brownies",
 price: 540,
 inStock:true,
 }
