@@ -20,7 +20,7 @@ console.log(products,productDetails);
 // Task 3: Assignment Operators
 let accountBalance = 50;
 
-accountBalance += 1;
+accountBalance += 1; // Adds 1 to the accountBalance 
     console.log(accountBalance);
 accountBalance -= 30;
     console.log(accountBalance);
@@ -36,12 +36,12 @@ accountBalance %= 2;
 // Task 4: Comparison Operators
 let employeeScore1 = 100;
 let employeeScore2 = 200;
-console.log(employeeScore1 > employeeScore2);
-console.log(employeeScore1 < employeeScore2);
-console.log(employeeScore1 >= employeeScore2);
-console.log(employeeScore1 <= employeeScore2);
-console.log(employeeScore1 === employeeScore2);
-console.log(employeeScore1 !== employeeScore2);
+console.log(employeeScore1 > employeeScore2);// Greater than
+console.log(employeeScore1 < employeeScore2); // Less than
+console.log(employeeScore1 >= employeeScore2);//Greater than Equal Or to
+console.log(employeeScore1 <= employeeScore2);// Less Than or Equal to
+console.log(employeeScore1 === employeeScore2);// Strict Equal
+console.log(employeeScore1 !== employeeScore2);// Strict Not Equal
 //Task 5: Logical Operators
 let hasKeyCard = true;
 let hasPermission = true;
